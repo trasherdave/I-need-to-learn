@@ -1,8 +1,10 @@
-<h3 align="center">
-    ## 🔖 Faça a sua lista de tecnologias para se tornar um dev full Syack Java Jr <br/>
-    <br><br>
-</h3>
+<div align="center">
+    
+   ## 🔖 Faça a sua lista de tecnologias para se tornar um dev Full Stack Java Jr 
+    
+</div>
 
+<br/>
 
 ## 🔖 Informaçoes sobre a Lista <br/>
 
